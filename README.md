@@ -1,5 +1,5 @@
 
-基于Pandora 的 Serveless 个人免登录免翻墙 zeabur部署（需要有chatgpt账户）
+基于Pandora 的 Serveless 个人免登录免翻墙 zbur部署（需要有chatgpt账户）
 
 (一) 首先注册Zeabur 绑定github使用, clone 本项目到自己的仓库
 
